@@ -1,6 +1,4 @@
-# detecting-happy😄-sad🥺-faces-from-images 
-
-# Detecting Happy and Sad Faces from Images
+# Detecting Happy 😄 and 🥺 Sad Faces from Images
 
 This repository contains code and resources for detecting happy and sad facial expressions in images using a Jupyter notebook. The project demonstrates basic computer vision techniques for identifying different emotions in facial images.
 
