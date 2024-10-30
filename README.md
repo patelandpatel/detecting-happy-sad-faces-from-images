@@ -30,11 +30,11 @@ pip install opencv-python numpy matplotlib tensorflow
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   gh repo clone patelandpatel/detecting-happy-sad-faces-from-images
    ```
 2. Navigate to the repository directory:
    ```sh
-   cd <repository-directory>
+   cd detecting-happy-sad-faces-from-images
    ```
 3. Open the Jupyter notebook:
    ```sh
